@@ -1,4 +1,4 @@
 # Example
 Hello
-This my first program
+This is my first program
 Good morning
